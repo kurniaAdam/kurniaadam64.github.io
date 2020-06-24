@@ -1,0 +1,28 @@
+<style type="text/css">
+		body{
+		background-image: url(gambarjelek.jpg);
+		background-size:cover;
+		background-attachment: fixed;
+		}
+		p{
+			background-color: rgb(244,158,1,0.932);
+			color:white; 
+			font-size:30px; 
+			font-style: italic;
+		}
+		ul{
+			background-color: rgb(2,158,1,0.989);
+			color:white;
+			font-size:20px;
+			font-family: cursive; 
+		}
+		img{
+			display: inline-block;
+		}
+		h1{
+			font-size: 50px;
+			text-align: center;
+			font-family: sans-serif;
+			color: blue;
+		}
+</style>
